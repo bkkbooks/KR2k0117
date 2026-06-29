@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR2k0117/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0117/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 都城紀勝
+  date: '2015-08-24 22:46:11.205166'
+  source:
+    repository: kanripo
+    path: KR2k0117
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0117_000-WYG.yaml, hash: 'sha256:e9b61fb2f2a09a0fc9c44e1605ff167a9b47ff115115944e6e2c041820d2ea77'}
+  - {seq: 1, filename: KR2k0117_001-WYG.yaml, hash: 'sha256:3030256042f1b5922308875b699e94155d292a20a1dfb1c740435c33a031751f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0117_000-WYG.markers.yaml, hash: 'sha256:d82a99b5428dc5cd92027d8bdb9a8482ed28a7ef81894d1efd5b4ba65bf160e1'}
+  - {seq: 1, role: markers, filename: assets/KR2k0117_001-WYG.markers.yaml, hash: 'sha256:0f5031531ad03293f504e0faeefc10432864c16746b4d8605e694fe8e436ee80'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0117_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 263
+  label: 御題南宋都城紀勝錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0117_WYG_000-2a
+    span:
+    - body
+    - 263
+    - 671
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2k0117_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 6125
+  label: 都城紀勝
+  type: section
+  level: 1
+hash: sha256:4bf38f19d4f7f5ea89852f5b01dfd130b41e90177de4e254b80542cdf9140aca
