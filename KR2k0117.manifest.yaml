@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2k0117_000.yaml, hash: 'sha256:192d358ba44e36ed6ae984eca3d15da725e5fd4b6b1cbfa1155ef01f7be87022'}
   - {seq: 1, filename: KR2k0117_001.yaml, hash: 'sha256:f1cd5fbf42af999767b6f1d79012a3e656a534474c6c22fbb23eaa55fc6ae286'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0117_000.markers.yaml, hash: 'sha256:4a51ee24ea89994f1be4d2d87f13c98333ab584e078145e75ed50de6d21f9916'}
-  - {seq: 1, role: markers, filename: assets/KR2k0117_001.markers.yaml, hash: 'sha256:7f90522132dcfb402eb94e202a9cbe54ee1aab1001cef2775076f5ec7a501a3f'}
+  - {seq: 0, role: markers, filename: assets/KR2k0117_000.markers.yaml, hash: 'sha256:160d3d0a47101601f055f73eca6c385f8fda74a55e066034337e37103457d543'}
+  - {seq: 1, role: markers, filename: assets/KR2k0117_001.markers.yaml, hash: 'sha256:f843168920ce2f5fcac70dff92067e91ad4ad0646c818e496ea4c5f456e02aa4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 都城紀勝
   type: section
   level: 1
-hash: sha256:099c7e11b3770c4884c21000260eac4834561b3378f98cdf18001615e249e92e
+hash: sha256:f31d3398f411b0a4cf7a881f125a3ae5bde724dbc9ffde3aa3a52200a9f57662
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR2k0117_000-WYG.yaml, hash: 'sha256:e9b61fb2f2a09a0fc9c44e1605ff167a9b47ff115115944e6e2c041820d2ea77'}
   - {seq: 1, filename: KR2k0117_001-WYG.yaml, hash: 'sha256:3030256042f1b5922308875b699e94155d292a20a1dfb1c740435c33a031751f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0117_000-WYG.markers.yaml, hash: 'sha256:d82a99b5428dc5cd92027d8bdb9a8482ed28a7ef81894d1efd5b4ba65bf160e1'}
-  - {seq: 1, role: markers, filename: assets/KR2k0117_001-WYG.markers.yaml, hash: 'sha256:0f5031531ad03293f504e0faeefc10432864c16746b4d8605e694fe8e436ee80'}
+  - {seq: 0, role: markers, filename: assets/KR2k0117_000-WYG.markers.yaml, hash: 'sha256:56267983159df16569f15bd8ff09845db6ae913ae19a0a251e0c13218f55ec77'}
+  - {seq: 1, role: markers, filename: assets/KR2k0117_001-WYG.markers.yaml, hash: 'sha256:33aaa689a4fa9041b77289771b519ae99bb06d75b3ce845617c6473c256344d1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -53,4 +53,4 @@ table_of_contents:
   label: 都城紀勝
   type: section
   level: 1
-hash: sha256:4bf38f19d4f7f5ea89852f5b01dfd130b41e90177de4e254b80542cdf9140aca
+hash: sha256:41d4b6070be94c9f02583a639d670adcfeae440cc332d323a7dc6f74d817e4c8
